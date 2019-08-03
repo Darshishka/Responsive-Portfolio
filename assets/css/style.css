@@ -125,3 +125,8 @@ p {
     border: none;
     color: #ffffff;
 }
+@media screen (max-width: 640px) {
+    header {
+        position: static;
+    }
+}
